@@ -2,20 +2,20 @@
 
 Файл index.html.
 1. Лишний пробел в подвале страницы. Сейчас "202 4", а должно быть "2024".
-2. Неправильно указана ссылка. Сейчас "https://fonts.googleapis.com/css?family=Montserrat:700", должно быть: "https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap"
+2. Неправильно указана ссылка на шрифт Google. Сейчас "https://fonts.googleapis.com/css?family=Montserrat:700", должно быть: "https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap"
 3. Опечатка в слове "расфшифровывается", должно быть "расшифровывается"
 4. ...
 
 Файл cmd.html.
 1. Ошибка в командах DIR и CD. Значения переставнены местами
 2. Вместо MAKEDIR правильная команда – MKDIR
-3. 
+3. Неправильно указана ссылка на шрифт Google. Сейчас "https://fonts.googleapis.com/css?family=Montserrat:700", должно быть: "https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap"
 
 Файл mac.html.
 1. Лишний символ / в конце команды mv
-2. ...
+2. Опечатка в слове "расфшифровывается", должно быть "расшифровывается"
 
 Файл git.html
-1. ...
-2. ...
-3. ...
+1. Лишний пробел в подвале страницы. Сейчас "202 4", а должно быть "2024"
+2. Опечатка в слове "расфшифровывается" в пункте li для команды mv, должно быть "расшифровывается"
+3. В пункте li для команды mv лишний символ / в конце пункта
