@@ -6,6 +6,7 @@
 3. <p class="subtitle">Тетирование WEB-приложений</p>, должно быть Тестирование
 4. Лишнее </p> между <p class="subtitle">Тестирование WEB-приложений</p> и         
   <p class="location" align="center">
+5. <a href="html/cmd.html">Командная строка Windos</a>?, должно быть Windows
 
 
 Файл cmd.html.
