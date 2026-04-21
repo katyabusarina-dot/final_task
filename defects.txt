@@ -2,14 +2,14 @@
 
 Файл index.html.
 1. Лишний пробел в подвале страницы. Сейчас "202 4", а должно быть "2024".
-2. Неправильно указана ссылка на шрифт Google. Сейчас "https://fonts.googleapis.com/css?family=Montserrat:700", должно быть: "https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap"
-3. Опечатка в слове "расфшифровывается", должно быть "расшифровывается"
+2. <div class="name"> Основныые Интрументы </div>, олжно быть Основные инструменты
+3.
 4. ...
 
 Файл cmd.html.
 1. Ошибка в командах DIR и CD. Значения переставнены местами
 2. Вместо MAKEDIR правильная команда – MKDIR
-3. Неправильно указана ссылка на шрифт Google. Сейчас "https://fonts.googleapis.com/css?family=Montserrat:700", должно быть: "https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap"
+3. 
 
 Файл mac.html.
 1. Лишний символ / в конце команды mv
