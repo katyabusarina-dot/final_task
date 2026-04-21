@@ -2,16 +2,16 @@
 
 Файл index.html.
 1. Лишний пробел в подвале страницы. Сейчас "202 4", а должно быть "2024".
-2. <div class="name"> Основныые Интрументы </div>, олжно быть Основные инструменты
-3. <p class="subtitle">Тетирование WEB-приложений</p>, должно быть Тестирование
+2. <div class="name"> Основныые Интрументы </div>, олжно быть Основные инструменты.
+3. <p class="subtitle">Тетирование WEB-приложений</p>, должно быть Тестирование.
 4. Лишнее </p> между <p class="subtitle">Тестирование WEB-приложений</p> и         
-  <p class="location" align="center">
-5. <a href="html/cmd.html">Командная строка Windos</a>?, должно быть Windows
+  <p class="location" align="center">.
+5. <a href="html/cmd.html">Командная строка Windos</a>, должно быть Windows
 
 
 Файл cmd.html.
 1. Ошибка в командах DIR и CD. Значения переставнены местами
-2. Вместо MAKEDIR правильная команда – MKDIR
+2. <li>MAKEDIR – Создать папку</li>, должно быть MKDIR
 3. 
 
 Файл mac.html.
